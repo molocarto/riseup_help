@@ -1,14 +1,27 @@
 @title = "Webmail"
-h2. What is webmail?
-Webmail allows you to check your riseup.net email from any computer that has a web browser. We do not recommend this method, for several reasons:
-# Webmail is less secure than using a mail client.
-# The Webmail software that Riseup currently offers has few features and is very slow.
-The primary reason to use webmail is if you do not have your own device that you can install a mail client on. Sometimes people use webmail because they don't want to leave a record of what email account they use on the device. Webmail is not a good solution for this, because web browsers leave behind all sorts of temporary files, and session files can be recovered with the right tools.
-h2. Webmail options
-Currently, Riseup offers two options for webmail:
-# *Roundcube*: roundcube presents a fluid and responsive user interface, but requires javascript and may not work for some people.
-# *SquirrelMail*: squirrelmail is more simple and does not require javascript.
+h2. Qu'est ce que le webmail?
+
+Le webmail vosu permet de consulter et utiliser votre compte email riseup.net depuis n'importe quel ordinateur disposant d'un navigateur web.
+Nous ne recommandons pas cette méthode pour plusieurs raisons
+# le webmail est moins sécurisé qu'un client mail classique.
+# Le webmail que riseup propose ne dispose que de peu de fonctionnalités et est vraiment lent.
+
+La principale raison d'utiliser un webmail est si vous ne disposez pas de votre propre ordinateur sur lequel vous pouvez installer un client mail.
+
+Parfois, le gens utilisent les webmail car il ne veulent pas laisser de traces du compte mail qu'ils ont utilisé sur l'ordinateur.
+Le choix du webmail n'est pas judicieux dans ce cas. En effet les navigateurs web laissent toutes sortes de traces commes des fichiers temporaires ou sessions de connection qui peuvent être retrouvées avec les bons outils.
+
+h2. Les options du webmail
+
+Aujourd'hui, Riseup propose deux types de webmail:
+
+# *Roundcube*: roundcube propose une interface fluide et responsive mais nécessite le javascript et peut ne pas fonctionner pour certaines personnes.
+# *SquirrelMail*: squirrelmail est plus simple et ne nécessite pas de javascript.
+
 h2. Cookies must be enabled
+
+
+
 For security reasons, we require cookies. Without cookies, it is impossible to make your login session secure.
 Unfortunately, cookies also allow advertisers and companies like google to track you nearly all your activity on the web. If you are concerned about tracking, we suggest that you simply disable third party cookies. Alternately, you can block all cookies by default and then enable cookies for the sites you want.
 h2. Troubleshooting webmail login
